@@ -1,2 +1,2 @@
 # Abdul_OOPsAssignmentSolution
-Graded Coding Assignment 1 - FoP
+Graded Coding Assignment 1 - FoP Solution
