@@ -1,5 +1,5 @@
 # Abdul_OOPsAssignmentSolution
-Graded Coding Assignment 1 - FoP Solution
+## Graded Coding Assignment 1 - FoP Solution
 
 → The assignment will contain 4 departments as four different object classes
 i) Super Department
@@ -24,7 +24,7 @@ isTodayAHoliday will return “ Today is not a holiday”
 i)  departmentName 
 ii)  getTodaysWork  
 iii) getWorkDeadline
-              
+
 departmentName will return “ Admin Department “
 getTodaysWork will return “Complete your documents Submission”
 getWorkDeadline will return “ Complete by EOD “
