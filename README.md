@@ -51,7 +51,7 @@ getTodaysWork will return  “ Complete coding of module 1”
 getWorkDeadline will return “ Complete by EOD “
 getTechStackInformation will return “core Java”
 
-→ Driver class Main will be used to create objects of HrDepartment, TechDepartment, AdminDepartment
-→ Each department will display all its functionalities.
+→ Driver class Main will be used to create objects of HrDepartment, TechDepartment, AdminDepartment  
+→ Each department will display all its functionalities.  
 → Each department  will display whether today is a holiday or not with the help of the Super Department. (SuperDepartment will act as a super class for all the departments)
 
